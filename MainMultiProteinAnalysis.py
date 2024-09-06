@@ -21,7 +21,7 @@ from contact_map import ContactFrequency, ContactDifference
 from contact_map import OverrideTopologyContactDifference as otcd
 
 # Constants:
-nameOfUser = "sepehrskysh9"
+nameOfUser = ""
 gmxVersion = "2022.3"
 gmxExe = f"/home/{nameOfUser}/Gromacs{gmxVersion}/Installation/bin/gmx"
 
